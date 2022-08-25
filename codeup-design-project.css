@@ -1,13 +1,13 @@
-.colorCircles{
-    margin: 20px;
-    /*padding: 100em;*/
-    /*justify-content: space-between;*/
-}
+/*.colorCircles{*/
+/*    margin: 20px;*/
+/*    !*padding: 100em;*!*/
+/*    !*justify-content: space-between;*!*/
+/*}*/
 
-h1 {
-    margin: 30px;
-    /*margin-top: none;*/
-}
+/*h1 {*/
+/*    margin: 30px;*/
+/*    !*margin-top: none;*!*/
+/*}*/
 #navColor {
     border: #f0f0f0;
     padding: 15px;
@@ -18,7 +18,7 @@ h1 {
 .circle1 {
     margin:0;
     width: 125px;
-    height: 125px;
+    /*height: 125px;*/
     line-height: 125px;
     border-radius: 125%;
     font-size: 25px;
@@ -30,7 +30,7 @@ h1 {
 .circle2 {
     margin:0;
     width: 125px;
-    height: 125px;
+    /*height: 125px;*/
     line-height: 125px;
     border-radius: 125%;
     font-size: 25px;
@@ -41,7 +41,7 @@ h1 {
 }
 .circle3 {
     width: 125px;
-    height: 125px;
+    /*height: 125px;*/
     line-height: 125px;
     border-radius: 125%;
     font-size: 25px;
@@ -52,7 +52,7 @@ h1 {
 }
 .circle4 {
     width: 125px;
-    height: 125px;
+    /*height: 125px;*/
     line-height: 125px;
     border-radius: 125%;
     font-size: 25px;
